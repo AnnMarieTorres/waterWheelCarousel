@@ -18,3 +18,5 @@ CONTACT INFORMATION:
 
 BRIAN OSBORNE
 brian@bkosborne.com
+
+Detail: http://www.bkosborne.com/jquery-waterwheel-carousel/options
